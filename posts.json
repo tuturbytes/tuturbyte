@@ -1,0 +1,23 @@
+[
+{
+"id":1,
+"title":"AI Revolution 2026",
+"category":"Tech",
+"image":"https://via.placeholder.com/600x400",
+"content":"This is full article content about AI revolution in 2026. Add your full news here."
+},
+{
+"id":2,
+"title":"Latest Sports Update",
+"category":"Sports",
+"image":"https://via.placeholder.com/600x400",
+"content":"Sports full article content goes here."
+},
+{
+"id":3,
+"title":"Political News Update",
+"category":"Politics",
+"image":"https://via.placeholder.com/600x400",
+"content":"Political news full article content."
+}
+]
